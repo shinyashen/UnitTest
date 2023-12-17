@@ -15,6 +15,8 @@
  * limitations under the License.
  */
 
+package org.apache.commons.lang3;
+
 public class StringUtils {
     /**
      * Gets a CharSequence length or {@code 0} if the CharSequence is
